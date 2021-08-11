@@ -1,0 +1,7 @@
+My project is mainly based on sales data prediction.
+
+In every department, there are some factors that are affecting the sales of their products in their stores. So, we gathered some past data years of sales data from Walmart. In that
+dataset we summarize data by using some attributes like temparature, store size, fuel price, markdown in prizes and CPI rate and unemployment rate to determine the efficiency.
+In data preprocessing we divide the data for training and testing. In the training phase we found some incorrect results that is obtaied from holidays instead of sundays as working day.
+So, we explore the data by using some machine learning algorithm. If we get any null values or incorrect values we place them with "-".
+Then we identify the significant values and improve the efficiency by using less significant values. In that way we can predict the sales marketing with for future demands in that profit way.
